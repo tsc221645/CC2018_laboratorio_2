@@ -1,0 +1,7 @@
+[package]
+name = "lab_2_conway_life"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+raylib={version="3.7", features=["static"]}
