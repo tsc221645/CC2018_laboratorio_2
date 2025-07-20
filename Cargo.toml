@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-raylib={version="3.7", features=["static"]}
+raylib = "5.5.1"
