@@ -1,7 +1,8 @@
 # Laboratorio 2 - Conway's Game of Life
 
-### Descripcion
+### Descripción
+Implementación del algoritmo de the game of life de Conway utilizando Rust
 
 
 ### GIF
-[Game of Life demo](assets/lab2.gif)
+![Game of Life demo](assets/lab2.gif)
